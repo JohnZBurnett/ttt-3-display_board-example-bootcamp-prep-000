@@ -10,3 +10,4 @@ def display_board
   C1R3 = ["   |"]
   C2R3 = ["   |"]
   C3R3 = ["   "]
+  line_break = "-----------"
