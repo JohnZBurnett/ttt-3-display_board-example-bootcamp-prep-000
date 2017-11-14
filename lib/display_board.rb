@@ -11,3 +11,8 @@ def display_board
   C2R3 = ["   |"]
   C3R3 = ["   "]
   line_break = "-----------"
+
+  puts C1R1
+  print C2R1
+  print C3R1
+
