@@ -14,12 +14,8 @@ def display_board
 
   puts c1r1 + c2r1 + c3r1
   puts line_break
-  puts c1r2
-  print c2r2
-  print c3r2
+  puts c1r2 + c2r2 + c3r2
   puts line_break
-  puts c1r3
-  print c2r3
-  print c3r3
+  puts c1r3 + c2r3 + c3r3
 
 end
