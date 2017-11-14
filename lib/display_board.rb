@@ -23,5 +23,5 @@ def display_board
   puts c1r3
   print c2r3
   print c3r3
-  
-end 
+
+end
