@@ -12,9 +12,7 @@ def display_board
   c3r3 = "   "
   line_break = "-----------"
 
-  puts c1r1
-  print c2r1
-  print c3r1
+  puts c1r1 + c2r1 + c3r1 
   puts line_break
   puts c1r2
   print c2r2
